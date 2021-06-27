@@ -16,7 +16,7 @@
 - Link `https://gitlab.com/OIVAS7572/Goi5.1.bin/-/raw/master/Goi5.1.bin.7z`
 
 ## Aaricia_2012.bin
-- Download [Aaricia_2012.bin](https://gitlab.com/OIVAS7572/Aaricia_2012.bin/-/blob/master/Aaricia_2012.7z)
+- Download [Aaricia_2012.bin](https://gitlab.com/OIVAS7572/Aaricia_2012.bin/-/raw/master/Aaricia_2012.7z)
 - Link `https://gitlab.com/OIVAS7572/Aaricia_2012.bin/-/blob/master/Aaricia_2012.7z`
 
 ##### More Items Comming soon
